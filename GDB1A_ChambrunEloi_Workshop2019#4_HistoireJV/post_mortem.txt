@@ -1,0 +1,10 @@
+Ce que j'aurai aimé faire :
+- programer l'ensemble des niveaux
+
+contraintes :
+- mes compétences actuelles en Java Script/ Phaser ne m'ont pas permis de rendre ce prototype jouable dans le temps imparti.
+- manque de connexion internet.
+- crash réguliers du pc de travail (écran noir toutes les 2 heures)
+
+ps : la conversion du game concept document en format .doc a modifié certaines de mes images ou schémas, 
+j'ai donc mis à votre disosition une version en .jpg de ceux-ci, dans le dossier "capture"

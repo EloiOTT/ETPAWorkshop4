@@ -1,0 +1,8 @@
+Ce que j'ai essayé de faire :
+
+J'ai rapidement su que je ne parviendrais pas à finir l'ensemble de mon jeu pour ce qui est du code.
+J'ai donc fait le choix de réaliser dans un premier temps un game concept document détaillant l'ensemble du projet,
+puis de réaliser l'ensemble des illustrations nécessaires au jeu et enfin de programer 3 niveaux afin d'avoir une vue concrète du projet.
+Malheureusement, en raisons de nombreux problèmes techniques et d'un manque de compétence en Java Script/ Phaser par rapport à la tâche demandée,
+je ne suis pas parvenue à réaliser le code pour faire tourner le jeu, même après avoir passé de nombreuses heures à tenter de construire certains niveaux 
+et de résoudre moult buggs lors de de l'écriture de ce code.
